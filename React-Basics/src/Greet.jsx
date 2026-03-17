@@ -1,9 +1,9 @@
 // these functions are basically components
 // name should be in capital letters
-function Chai(){
+function Greet(){
     return(
-        <h2>Chai is ready</h2>
+        <h2>Hi folks!</h2>
     )
 }
 
-export default Chai;
+export default Greet;

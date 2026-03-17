@@ -1,10 +1,10 @@
-import Chai from "./Chai"
+import Greet from "./Greet"
 
 function App() {
   return(
     <>
      <h1>Learning how to render other jsx in here</h1>
-     <Chai/>
+     <Greet/>
      <h3>Weather is Beautiful today.</h3>
     </>
     
